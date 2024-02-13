@@ -1,0 +1,2 @@
+# quotegenerator
+Generate unlimited quotes.
